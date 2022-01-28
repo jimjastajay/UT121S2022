@@ -1,0 +1,24 @@
+#Basic Ignore
+Assembly*
+Library*
+*.sln
+*.userprefs
+Temp/*
+Logs*
+Assets/Strumpy*
+obj/
+Assets/UnityBuildSettings/*
+
+#Visual Stuido Files
+.vscode
+.vs/
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
