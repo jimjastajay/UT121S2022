@@ -22,6 +22,7 @@ public class AllLevelsEditor : Editor {
             //levelObject.levels[i].levelNumber = EditorGUILayout.IntField("Level #", levelObject.levels[i].levelNumber);
             EditorGUILayout.LabelField("Level #", levelObject.levels[i].levelNumber.ToString());
             levelObject.levels[i].levelName = EditorGUILayout.TextField("Name", levelObject.levels[i].levelName);
+            levelObject.levels[i].bossSpawnPerct = EditorGUILayout.FloatField("%%%", levelObject.levels[i].bossSpawnPerct);
 
             EditorGUILayout.Space();
             EditorGUILayout.Space();

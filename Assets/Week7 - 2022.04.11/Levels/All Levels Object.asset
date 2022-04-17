@@ -19,3 +19,27 @@ MonoBehaviour:
     enemyCount: 10
     timeLimit: 100
     bossSpawnPerct: 0.1
+  - levelNumber: 0
+    levelType: 0
+    levelName: New level 1
+    enemyCount: 10
+    timeLimit: 100
+    bossSpawnPerct: 0.1
+  - levelNumber: 0
+    levelType: 0
+    levelName: New level 3
+    enemyCount: 10
+    timeLimit: 100
+    bossSpawnPerct: 0.1
+  - levelNumber: 0
+    levelType: 0
+    levelName: New level 4
+    enemyCount: 10
+    timeLimit: 100
+    bossSpawnPerct: 0.1
+  - levelNumber: 5
+    levelType: 0
+    levelName: New level 5
+    enemyCount: 10
+    timeLimit: 100
+    bossSpawnPerct: 0.1
