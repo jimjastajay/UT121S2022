@@ -12,6 +12,9 @@ public class GoodClass : MyBehaviour {
 
     public override void ClassSetup() {
         base.ClassSetup();
+        Debug.Log(IsBetween(3, 0, 10));
+        Debug.Log(IsBetween(-1, 0, 10));
+        Debug.Log(IsBetween(44, 90, 10));
         Debug.Log($"Hey, do we know what this thing is? {thisThing}");
     }
 }
